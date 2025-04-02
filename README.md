@@ -1,4 +1,4 @@
-# MINECRAFT SPECIAL EID AL-ADHA
+# Minecraft special eid al-adha
 
 <center><img src="resources/title/minecraft_idul_adha_2023.png" height="150px"></center>
 <br>
