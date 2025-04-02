@@ -1,20 +1,20 @@
-# MINECRAFT SPESIAL IDUL ADHA
+# MINECRAFT SPECIAL EID AL-ADHA
 
 <center><img src="resources/title/minecraft_idul_adha_2023.png" height="150px"></center>
 <br>
-Mod dan addon khusus untuk Minecraft spesial idul adha.
+A mod and addon specifically for Minecraft to celebrate Eid al-Adha.
 
-## Teknologi Yang Di Gunakan
+## Technologies Used
 - Visual Studio Code
 - Bridge v2
 - Blockbench
 - Adobe Photoshop
 
-## Cara pasang
-- Buka file mcpack dengan Minecraft
+## Installation
+- Open the mcpack file with Minecraft
 
-### Changelog : [Lihat disini](CHANGELOG.md)
+### Changelog: [View here](CHANGELOG.md)
 
 <br>
 
-Terimakasih telah mengunjungi github kami.
+Thank you for visiting our GitHub.
